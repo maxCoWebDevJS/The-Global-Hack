@@ -1,0 +1,30 @@
+{
+  "short_name": "ean@home",
+  "name": "eanathome.com",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "touch-icon.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "touch-retina.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "touch-retina.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "touch-splash.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/"
+}
